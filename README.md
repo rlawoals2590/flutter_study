@@ -1,2 +1,2 @@
-# Flutter_Study
-Flutter Study
+# flutter_study
+flutter study

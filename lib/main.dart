@@ -16,7 +16,6 @@ class MyApp extends StatelessWidget {
           backgroundColor: Colors.blue,
         ),
         body: Center(
-
           // Text 추가
           // child: Text(
           //   "Hello",
